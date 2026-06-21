@@ -1,0 +1,13 @@
+{
+  "itemGroup.macrochip": "Example Mod Tab",
+  "block.macrochip.example_block": "Example Block",
+  "item.macrochip.example_item": "Example Item",
+
+  "macrochip.configuration.title": "Macrochip Configs",
+  "macrochip.configuration.section.macrochip.common.toml": "Macrochip Configs",
+  "macrochip.configuration.section.macrochip.common.toml.title": "Macrochip Configs",
+  "macrochip.configuration.items": "Item List",
+  "macrochip.configuration.logDirtBlock": "Log Dirt Block",
+  "macrochip.configuration.magicNumberIntroduction": "Magic Number Text",
+  "macrochip.configuration.magicNumber": "Magic Number"
+}
